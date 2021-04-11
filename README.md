@@ -22,4 +22,4 @@
 ### Sponser Us
 
 - To support [Tupu4545](https://github.com/Tupu4545), Go to his [Patreon](https://patreon.com/tupu4545) Page :)
-- To support [Abhinav](https://github.com/abhinavquadworld), [Paypal](https://www.paypal.me/payatg) him some ~Dinero~ aka money XD
+- To support [Abhinav](https://github.com/abhinavquadworld), [Paypal](https://www.paypal.me/payatg) him some \~Dinero~ aka money XD
