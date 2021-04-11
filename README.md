@@ -2,7 +2,7 @@
 
 ## To Visit our Website [Click Here](spaceamateurs.github.io)
 
-### Website Designers:
+### Website Designers
 
 - [Abhinav](https://github.com/abhinavquadworld) Makes the website
 
